@@ -3,6 +3,7 @@
 I'm developer & artist 
 
 - My website for more information: [saynumB links](https://portfolio.saynumb.dev/)
+- overview art gallery links: [--card me--](https://card-me.saynumb.dev/)
 - My gallery art: coming soon... (June 2026)
 - SaynumB World: coming soon aftter gallery art
 <!--
