@@ -4,7 +4,7 @@ I'm developer & artist
 
 - My website for more information: [saynumB links](https://portfolio.saynumb.dev/)
 - overview art gallery links: [--card me--](https://card-me.saynumb.dev/)
-- My gallery art: coming soon... (June 2026)
+- My gallery art: coming soon...
 - SaynumB World: coming soon aftter gallery art
 <!--
 **boomtnt2843/boomtnt2843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
